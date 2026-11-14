@@ -1,4 +1,4 @@
-# Kaggriculture Agent
+# AI Agent for a Kaggle Market Simulation (Kaggriculture)
 
 An autonomous agent for **Kaggriculture**, a Kaggle simulation competition (2026). Two players run competing farms for a 30-day season (720 turns), each with a farmer and hireable farm hands. They plant crops, raise animals and sell into a shared market whose prices react to supply and to the shops that unlock in town. The richest farm at the end wins.
 
